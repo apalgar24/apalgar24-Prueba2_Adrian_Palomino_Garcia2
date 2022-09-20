@@ -23,7 +23,7 @@ Lista no ordenada:
 
 [Enlace a otro fichero markdown](archivos/enlace.md)
 
-![Imagen](recursos/vegetta.jpg)
+![Imagen](archivos/vegetta.jpg)
 
 Tabla:
 
