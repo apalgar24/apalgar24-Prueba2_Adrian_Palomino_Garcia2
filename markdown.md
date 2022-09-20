@@ -21,7 +21,7 @@ Lista no ordenada:
 
 [Enlace de mi blog sobre servicios en red](https://ercaudata.data.blog/pagina-inicio/)
 
-[Enlace a otro fichero markdown](recursos/enlace.md)
+[Enlace a otro fichero markdown](archivos/enlace.md)
 
 ![Imagen](recursos/vegetta.jpg)
 
